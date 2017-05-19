@@ -3,7 +3,8 @@ Demo application using React router
 
 Running the app:
  - npm i
- - open src/index.html
+ - npm run dev
+ - open localhost:8080 in browser
 
 debug mode:
 `webpack`
